@@ -1,0 +1,32 @@
+{
+  "skill_name": "icp-builder",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "/icp-builder KiwiData",
+      "expected_output": "A comprehensive icp.md written to ~/Obsidian/01-Clients/KiwiData/icp.md. Should include: ICP tier definitions (Tier 1/2/3) specific to intelligent document processing for enterprises, firmographic profile with industry verticals (telco, financial services, oil & gas, manufacturing), trigger event table with specific observable signals, 10-point scoring rubric customized for KiwiData, buying committee map, and full persona docs for at least 3 roles (CIO, Procurement Executive, and COO/Business Ops). Personas should be as deep as the CEO Steve example. All claims should trace to research or client context.",
+      "files": [
+        "~/.claude/claudecodeskills/icp-builder/SKILL.md",
+        "~/Obsidian/01-Clients/KiwiData/CLAUDE.md"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "/icp-builder CurveDental",
+      "expected_output": "A comprehensive icp.md written to ~/Obsidian/01-Clients/CurveDental/icp.md. Should cover the dental practice management software market. ICP tiers should distinguish between independent dental practices vs. DSOs vs. group practices. Trigger events should reflect dental industry specifics (opening new practice, switching from paper-based system, recent insurance billing pain). Personas should include the Practice Owner/Dentist (economic buyer), Office Manager (champion/daily user), and potentially a DSO VP of Operations. Buying committee map should reflect typical dental software purchase dynamics.",
+      "files": [
+        "~/.claude/claudecodeskills/icp-builder/SKILL.md",
+        "~/Obsidian/01-Clients/CurveDental/CLAUDE.md"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Hey, I need to build out the ICP and buyer personas for Obin AI. Their product is an AI sales intelligence tool for B2B sales teams. Can you put together the full ICP document?",
+      "expected_output": "Should trigger the icp-builder skill despite not using /icp-builder explicitly. Should write to ~/Obsidian/01-Clients/Obin AI/icp.md. Should read existing Obin AI CLAUDE.md and context files first, then do research on B2B sales intelligence buyers. Should produce full ICP framework + personas for likely roles (VP Sales, Sales Ops, AE/SDR as end users).",
+      "files": [
+        "~/.claude/claudecodeskills/icp-builder/SKILL.md",
+        "~/Obsidian/01-Clients/Obin AI/CLAUDE.md"
+      ]
+    }
+  ]
+}

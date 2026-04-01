@@ -1,6 +1,6 @@
 # Marketing Skills for Claude Code
 
-A curated collection of 25 Claude Code skills for B2B SaaS marketing — covering strategy, content, SEO, CRO, paid ads, sales enablement, and AI image generation.
+A curated collection of 27 Claude Code skills for B2B SaaS marketing — covering strategy, content, SEO, CRO, paid ads, sales enablement, and AI image generation.
 
 ## Skills
 
@@ -19,6 +19,8 @@ A curated collection of 25 Claude Code skills for B2B SaaS marketing — coverin
 | `pricing-strategy` | Develop pricing tiers, packaging, and monetization models |
 | `launch-strategy` | Plan product launches, feature announcements, and release strategy |
 | `marketing-psychology` | Apply 70+ behavioral science mental models to marketing |
+| `icp-builder` | Build research-backed ICP and buyer persona documents |
+| `competitive-intelligence` | Build competitive analysis, battle cards, and positioning intel |
 
 ### Content & Copy
 | Skill | Description |
@@ -75,7 +77,7 @@ After copying, create matching command files in `~/.claude/commands/` for each s
 Skills in this collection are sourced and adapted from:
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (MIT License)
 - [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills)
-- Local custom skills (skill-creator, nanobanana2)
+- Local custom skills (skill-creator, nanobanana2, icp-builder, competitive-intelligence)
 
 ## License
 
