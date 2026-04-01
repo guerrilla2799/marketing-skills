@@ -1,0 +1,26 @@
+{
+  "skill_name": "competitive-intelligence",
+  "evals": [
+    {
+      "id": 1,
+      "name": "avarra-with-competitors",
+      "prompt": "Run competitive intelligence for Avarra (https://avarra.ai, LinkedIn: https://www.linkedin.com/company/avarra). Competitors to research: SecondNature (https://secondnature.ai/), Hyperbound (https://www.hyperbound.ai/), and FullyRamped (https://fullyramped.com/). Save the competitive.md output to the specified outputs directory.",
+      "expected_output": "A complete competitive.md document with all 10 sections filled in: market landscape, competitor index table, feature matrix, per-competitor deep dives for all 3 competitors, pricing analysis, win/loss themes, differentiation map, positioning opportunities, battle cards, and intel refresh log.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "dodge-no-competitors",
+      "prompt": "I need a competitive analysis for Dodge Construction Network. Their website is http://construction.com/ and LinkedIn is https://www.linkedin.com/company/dodge-construction-network/. I don't have a competitor list — figure out who they're competing against, present a tiered list for review, then proceed to research and produce the full competitive.md. Save the output to the specified outputs directory.",
+      "expected_output": "A complete competitive.md document that includes a tiered competitor list (Tier 1/2/3) derived from research, plus all 10 sections of the competitive analysis populated with real data from web research.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "clay-minimal",
+      "prompt": "Do competitive intel for Clay (https://clay.com/, LinkedIn: https://www.linkedin.com/company/grow-with-clay/). Figure out who's in their space and build the full competitive analysis. Save the output to the specified outputs directory.",
+      "expected_output": "A complete competitive.md with competitor discovery, tiered landscape, and all 10 sections populated. Clay is well-known in the GTM/data enrichment space so the output should reflect accurate competitive dynamics (Apollo, ZoomInfo, Lusha, etc.).",
+      "files": []
+    }
+  ]
+}
