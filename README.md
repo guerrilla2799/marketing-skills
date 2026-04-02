@@ -1,5 +1,7 @@
 # Marketing Skills for Claude Code
 
+![Marketing Skills Banner](marketing-skills-banner.jpeg)
+
 A curated collection of 27 Claude Code skills for B2B SaaS marketing — covering strategy, content, SEO, CRO, paid ads, sales enablement, and AI image generation.
 
 ## Skills
