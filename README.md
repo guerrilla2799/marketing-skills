@@ -59,15 +59,19 @@ A curated collection of 27 Claude Code skills for B2B SaaS marketing — coverin
 
 ## Installation
 
-### Install all skills
+### Quick install (in Claude Code)
+```
+/install-skill https://github.com/guerrilla2799/marketing-skills
+```
+
+### Manual install (all skills)
 ```bash
-# Clone and copy to your Claude Code skills directory
-git clone https://github.com/guerrilla2799/marketing-skills.git /tmp/marketing-skills
-cp -r /tmp/marketing-skills/skills/* ~/.claude/claudecodeskills/
+git clone https://github.com/guerrilla2799/marketing-skills.git /tmp/marketing-skills && cp -r /tmp/marketing-skills/skills/* ~/.claude/claudecodeskills/
 ```
 
 ### Install a single skill
 ```bash
+git clone https://github.com/guerrilla2799/marketing-skills.git /tmp/marketing-skills
 cp -r /tmp/marketing-skills/skills/<skill-name> ~/.claude/claudecodeskills/
 ```
 
