@@ -39,15 +39,15 @@ A curated collection of 27 Claude Code skills for B2B SaaS marketing — coverin
 |-------|-------------|
 | `seo-strategy` | Plan and prioritize SEO work and execution |
 | `keyword-research` | Identify target keywords and analyze search intent |
-| `competitor-research` | Analyze competitor positioning, content, and backlinks |
 
-### Conversion Optimization
+### Conversion & Measurement
 | Skill | Description |
 |-------|-------------|
 | `page-cro` | Improve conversion rates on marketing pages |
 | `form-cro` | Optimize lead capture, contact, and demo request forms |
 | `landing-page-generator` | Build and optimize campaign landing pages |
 | `ab-test-setup` | Plan, design, and implement A/B tests and experiments |
+| `analytics-tracking` | Set up and audit GA4, conversion tracking, UTMs, and attribution |
 
 ### Sales & Revenue
 | Skill | Description |
