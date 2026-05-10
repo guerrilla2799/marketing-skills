@@ -2,7 +2,7 @@
 
 ![Marketing Skills Banner](marketing-skills-banner.jpeg)
 
-A curated collection of 27 Claude Code skills for B2B SaaS marketing — covering strategy, content, SEO, CRO, paid ads, sales enablement, and AI image generation.
+A curated collection of 28 Claude Code skills for B2B SaaS marketing — covering strategy, content, SEO, CRO, paid ads, sales enablement, reporting, and AI image generation.
 
 ## Skills
 
@@ -56,6 +56,11 @@ A curated collection of 27 Claude Code skills for B2B SaaS marketing — coverin
 | `paid-ads` | Manage Google, Meta, and LinkedIn ad campaigns |
 | `customer-research` | Conduct and synthesize customer research |
 | `revops` | Revenue operations, lead lifecycle, and marketing-to-sales handoff |
+
+### Operations & Reporting
+| Skill | Description |
+|-------|-------------|
+| `weekly-marketing-pulse` | Generate the CMO's weekly performance brief — pipeline, MQLs, top campaigns, three priorities, plus a 30-second Slack version |
 
 ## Installation
 

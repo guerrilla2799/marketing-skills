@@ -6,6 +6,20 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and [Sem
 
 ---
 
+## [2026-05-10] v1.1.0
+
+### Added
+
+- **Operations & Reporting** category (new)
+- `weekly-marketing-pulse` — The CMO's weekly performance brief skill. Replaces a 2–4 hour Monday writing exercise with a 30-second one. Includes a starter template for teaching/sharing alongside the production SKILL.md.
+
+### Changed
+
+- Skill count: 27 → 28
+- README: Added Operations & Reporting category section
+
+---
+
 ## [2026-04-03] v1.0.0
 
 Initial release — 27 curated Claude Code skills for B2B SaaS marketing.
